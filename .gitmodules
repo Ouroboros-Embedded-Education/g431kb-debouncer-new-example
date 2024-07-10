@@ -1,0 +1,3 @@
+[submodule "libs/debouncer-buttons"]
+	path = libs/debouncer-buttons
+	url = git@github.com:Pablo-Jean/Debouncer-Buttons.git
